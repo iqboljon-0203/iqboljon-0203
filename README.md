@@ -11,9 +11,9 @@ I'm Frontend developer with React JS <br/>
   </img>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="40px">
   </img>
-   <img src="https://www.typescriptlang.org/images/branding/two-colors.svg" width="40px">
+   <img src="https://www.typescriptlang.org/images/branding/two-colors.svg" width="100px">
   </img>
-   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.png" width="40px">
+   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.png" width="100px">
   </img>
   
 </code>
