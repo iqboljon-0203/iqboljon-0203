@@ -5,7 +5,15 @@ I'm Frontend developer with React JS <br/>
 2020-2022 - Tashkent university of Information Technology
 ### LANGUAGES AND  I WORK WITH:
 <code>
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png">
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png" width="40px">
+  </img>
+   <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png?w=360" width="40px">
+  </img>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="40px">
+  </img>
+   <img src="https://www.typescriptlang.org/images/branding/two-colors.svg" width="40px">
+  </img>
+   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.png" width="40px">
   </img>
   
 </code>
