@@ -15,6 +15,8 @@ I'm Frontend developer with React JS <br/>
   </img>
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.png" width="100px">
   </img>
-  
 </code>
+<br/>
+- <img src="https://media3.giphy.com/media/XBKaDapAVVwjT44Hcz/200w.webp?cid=ecf05e47sqmj5su8qmz734w1tsoqrlpuqf69nke0j5e2uqhl&rid=200w.webp&ct=s" width="20px"></img> &nbsp; Current Location Tashkent Uzbekistan
+- 
 
