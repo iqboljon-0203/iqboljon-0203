@@ -2,7 +2,7 @@
 
 Frontend developer. I started learning web development in February 2021.I was more interested in frontend development, I have chosen to focus on it and start to learn JavaScript more deeply. I love writing and teaching code, mostly in JavaScript, TypeScript and React JS.
 
-[💼 Portfolio](https://github.com/iqboljon-0203/) | [:computer: Codewars](https://www.codewars.com/users/iqboljon0201) | [🔴 YouTube](https://www.youtube.com/channel/UCDLAhvbFv2_QEuZer5xvXFA) | [💬 Telegram](https://t.me/YulDaShev_code) | [📧 Email](mailto:iqboljon2003.yuldashev@gmail.com)
+[💼 Portfolio](https://senior-yuldashev.netlify.app/home) | [:computer: Codewars](https://www.codewars.com/users/iqboljon0201) | [🔴 YouTube](https://www.youtube.com/channel/UCDLAhvbFv2_QEuZer5xvXFA) | [💬 Telegram](https://t.me/YulDaShev_code) | [📧 Email](mailto:iqboljon2003.yuldashev@gmail.com)
 
 <p align="left">
 </p>
